@@ -1,0 +1,540 @@
+ firstname |  lastname   
+-----------+-------------
+ Al        | Attles
+ Paul      | Birch
+ Bill      | Blair
+ PJ        | Carlesimo
+ Rick      | Carlisle
+ Don       | Casey
+ Al        | Cervi
+ Larry     | Costello
+ Bob       | Cousy
+ Mike      | D'Antoni
+ Johnny    | Davis
+ Charles   | Eckman
+ Bob       | Feerick
+ Tim       | Floyd
+ Mike      | Fratello
+ Harry     | Gallatin
+ Richie    | Guerin
+ Matt      | Guokas
+ Gar       | Heard
+ Brian     | Hill
+ Rex       | Hughes
+ George    | Irvine
+ Phil      | Jackson
+ Stu       | Jackson
+ Buddy     | Jeannette
+ Eddie     | Jordan
+ John      | Kerr
+ Bob       | Kloppenburg
+ Ken       | Loeffler
+ Bob       | MacKinnon
+ Dick      | McGuire
+ Doxie     | Moore
+ Joe       | Mullaney
+ Bill      | Musselman
+ Rick      | Pitino
+ Jim       | Pollard
+ Willis    | Reed
+ Jimmy     | Rodgers
+ Ron       | Rothstein
+ Dolph     | Schayes
+ Mike      | Schuler
+ Bill      | Sharman
+ Scott     | Skiles
+ Jerry     | Sloan
+ Garry     | StJean
+ Jeff      | Van Gundy
+ Darrell   | Walker
+ Bob       | Wanzer
+ Paul      | Westphal
+ Brian     | Winters
+ Tex       | Winter
+ Charles   | Wolf
+(52 rows)
+
+ firstname 
+-----------
+ Aaron
+ Acie
+ Adam
+ Adolph
+ Adonis
+ Adrian
+ A.j.
+ Al
+ Alaa
+ Alex
+ Alton
+ Andre
+ Andrew
+ Andy
+ Anthony
+ Antoine
+ Antonio
+ Arnie
+ Art
+ Arthur
+ Artis
+ Arvid
+ Avery
+ Bailey
+ Bart
+ Ben
+ Bennie
+ Bill
+ Billy
+ Bimbo
+ Bison
+ Blair
+ Blue
+ Bo
+ Bob
+ Bobby
+ Brad
+ Brady
+ Brandon
+ Brett
+ Brian
+ Brooks
+ Bruce
+ Bruno
+ Bryant
+ Bryon
+ Byron
+ Cadillac
+ Calbert
+ Calvin
+ Carl
+ Carlos
+ Carmelo
+ Cecil
+ Cedric
+ Cedrick
+ Charles
+ Charley
+ Charlie
+ Chauncey
+ Chris
+ Chuck
+ Chucky
+ Clarence
+ Claude
+ Cliff
+ Clyde
+ Conner
+ Connie
+ Corey
+ Cory
+ Craig
+ Curtis
+ Dale
+ Damon
+ Dan
+ Dana
+ Danny
+ Darnell
+ Darrell
+ Darren
+ Darvin
+ Darwin
+ Dave
+ David
+ Dean
+ Dee
+ Delonte
+ Dennis
+ Derek
+ Dermarr
+ Dermie
+ Devin
+ Dick
+ Dikembe
+ Dillard
+ Dino
+ Dirk
+ Dominique
+ Don
+ Donnell
+ Dontae
+ Doug
+ Duane
+ Dwight
+ Earl
+ Ed
+ Eddie
+ Eduardo
+ Eldridge
+ Elmer
+ Elmore
+ Elston
+ Emmette
+ Eric
+ Erick
+ Ernie
+ Ervin
+ Floyd
+ Francis
+ Francisco
+ Frank
+ Frankie
+ Fred
+ Freddie
+ Garfield
+ Garth
+ Gary
+ Gene
+ George
+ Gerald
+ Gerard
+ Gerry
+ Glen
+ Glenn
+ Grant
+ Greg
+ Gus
+ Hal
+ Hank
+ Harold
+ Horace
+ Howard
+ Howie
+ Isaiah
+ Jack
+ Jacky
+ Jake
+ Jalen
+ Jamel
+ James
+ Jamesearl
+ Jan
+ Jawann
+ Jay
+ Jeff
+ Jeffrey
+ Jerome
+ Jerry
+ Jim
+ Jimmy
+ Jiri
+ Joe
+ Joe Barry
+ John
+ Johnny
+ Jojo
+ Jon
+ Joseph
+ J.R.
+ Julian
+ Julius
+ Jumaine
+ Junior
+ Justin
+ Juwan
+ K.c.
+ Kedrick
+ Keith
+ Kelly
+ Kelvin
+ Ken
+ Kendrick
+ Kenny
+ Kenyon
+ Keon
+ Kermit
+ Kevin
+ Kiki
+ Kim
+ Kiwane
+ Lafayette
+ Laphonso
+ Larry
+ Lasalle
+ Lonnie
+ Loren
+ Lorenzo
+ Lorinza
+ Lou
+ Lucian
+ Luis
+ Mack
+ Mahmo
+ Mal
+ Marcus
+ Mark
+ Marlon
+ Marty
+ Marv
+ Marvin
+ Matt
+ Maury
+ Maybyner
+ Mel
+ Melvin
+ Mengke
+ Michael
+ Mike
+ Mikki
+ Milt
+ M.l.
+ Mo
+ Moe
+ Monte
+ Monty
+ Nate
+ Nick
+ Nikoloz
+ Norm
+ Orlando
+ Otis
+ Pat
+ Paul
+ Pervis
+ Pete
+ Phil
+ Popeye
+ Predrag
+ Priest
+ Quinn
+ Raef
+ Ralph
+ Ramon
+ Randy
+ Rastko
+ Ray
+ Rb
+ Reggie
+ Rex
+ Rich
+ Richard
+ Richie
+ Rick
+ Rickey
+ Ricky
+ Rob
+ Robert
+ Rodney
+ Roger
+ Roland
+ Ron
+ Roy
+ Ruben
+ Ryan
+ Sam
+ Sarunas
+ Saul
+ Scott
+ Shammond
+ Shawnelle
+ Sherman
+ Si
+ Sidney
+ Sly
+ Spencer
+ Stacey
+ Stan
+ Steve
+ Stojan
+ Tariq
+ Ted
+ Terry
+ Thomas
+ Tim
+ Toby
+ Todd
+ Togo
+ Tom
+ Tony
+ T.r.
+ Tracy
+ Travis
+ Tyson
+ Tyus
+ Vin
+ Vincent
+ Virgil
+ Vitaly
+ Voshon
+ Walt
+ Walter
+ Ward
+ Warren
+ Wayne
+ Wesley
+ Willie
+ Winston
+ Woody
+ Wyndol
+ Xavier
+ Zan
+ Zendon
+(313 rows)
+
+ firstname |  lastname   | year |      name      
+-----------+-------------+------+----------------
+ Ed        | Sadowski    | 1946 | Huskies
+ Buddy     | Jeannette   | 1947 | Bullets
+ Buddy     | Jeannette   | 1948 | Bullets
+ Grady     | Lewis       | 1948 | Bombers
+ Al        | Cervi       | 1949 | Nationals
+ Bob       | Feerick     | 1949 | Capitols
+ Buddy     | Jeannette   | 1949 | Bullets
+ Charley   | Shipp       | 1949 | Hawks
+ Cliff     | Barker      | 1949 | Olympians
+ Howie     | Schultz     | 1949 | Duffey Packers
+ Jack      | Smiley      | 1949 | Hawks
+ Jimmy     | Darden      | 1949 | Nuggets
+ Al        | Cervi       | 1950 | Nationals
+ Cliff     | Barker      | 1950 | Olympians
+ John      | Logan       | 1950 | Blackhawks
+ Walt      | Budko       | 1950 | Bullets
+ Al        | Cervi       | 1951 | Nationals
+ Fred      | Scolari     | 1951 | Bullets
+ Al        | Cervi       | 1952 | Nationals
+ Andrew    | Levane      | 1952 | Hawks
+ Red       | Holzman     | 1953 | Hawks
+ Bob       | Wanzer      | 1955 | Royals
+ Alex      | Hannum      | 1956 | Hawks
+ Alex      | Hannum      | 1956 | Spirits
+ Bob       | Wanzer      | 1956 | Royals
+ Paul      | Seymour     | 1956 | Nationals
+ Slater    | Martin      | 1956 | Hawks
+ Slater    | Martin      | 1956 | Spirits
+ Paul      | Seymour     | 1957 | Nationals
+ Ed        | Macauley    | 1958 | Hawks
+ Ed        | Macauley    | 1958 | Spirits
+ Paul      | Seymour     | 1958 | Nationals
+ Tom       | Marshall    | 1958 | Royals
+ Carl      | Braun       | 1959 | Knicks
+ Dick      | McGuire     | 1959 | Pistons
+ Paul      | Seymour     | 1959 | Nationals
+ Carl      | Braun       | 1960 | Knicks
+ Bob       | Pettit      | 1961 | Hawks
+ Bob       | Pettit      | 1961 | Spirits
+ Bob       | Leonard     | 1962 | Zephyrs
+ Dolph     | Schayes     | 1963 | 76ers
+ Dave      | DeBusschere | 1964 | Pistons
+ Richie    | Guerin      | 1964 | Hawks
+ Richie    | Guerin      | 1964 | Spirits
+ Dave      | DeBusschere | 1965 | Pistons
+ Richie    | Guerin      | 1965 | Hawks
+ Richie    | Guerin      | 1965 | Spirits
+ Bill      | Russell     | 1966 | Celtics
+ Dave      | DeBusschere | 1966 | Pistons
+ Richie    | Guerin      | 1966 | Hawks
+ Richie    | Guerin      | 1966 | Spirits
+ Bill      | Russell     | 1967 | Celtics
+ Bill      | Russell     | 1968 | Celtics
+ Richie    | Guerin      | 1968 | Hawks
+ Al        | Attles      | 1969 | Warriors
+ Bob       | Cousy       | 1969 | Royals
+ Lenny     | Wilkens     | 1969 | Supersonics
+ Richie    | Guerin      | 1969 | Hawks
+ Al        | Attles      | 1970 | Warriors
+ Lenny     | Wilkens     | 1970 | Supersonics
+ Lenny     | Wilkens     | 1971 | Supersonics
+ Kevin     | Loughery    | 1972 | 76ers
+ Lenny     | Wilkens     | 1974 | Trailblazers
+ Dave      | Cowens      | 1978 | Celtics
+(64 rows)
+
+  name  | year |      avg_h       
+--------+------+------------------
+ Bulls  | 1993 |          203.835
+ Bulls  | 1995 |          203.708
+ Bulls  | 1994 |         202.8825
+ Bulls  | 1996 | 202.861333333333
+ Bulls  | 1991 |        202.08875
+ Lakers | 2002 |           201.93
+ Bulls  | 1997 | 201.556470588235
+ Bulls  | 1990 | 201.506666666667
+ Lakers | 2003 | 201.257647058824
+ Bulls  | 1989 | 201.022857142857
+ Lakers | 2001 |           200.66
+ Lakers | 2000 | 200.490666666667
+ Bulls  | 1992 | 200.361176470588
+ Lakers | 1999 | 200.321333333333
+(14 rows)
+
+ firstname | lastname 
+-----------+----------
+ Maurice   | Cheeks
+(1 row)
+
+ firstname |  lastname   
+-----------+-------------
+ Alex      | Hannum
+ Andrew    | Levane
+ Andy      | Phillip
+ Bernie    | Bickerstaff
+ Bill      | Hanzlik
+ Bob       | Bass
+ Bob       | Hill
+ Bob       | Leonard
+ Bob       | Pettit
+ Bob       | Weiss
+ Cotton    | Fitzsimmons
+ Dan       | Issel
+ Dick      | Motta
+ Dick      | Versace
+ Donnie    | Walsh
+ Doug      | Moe
+ Ed        | Macauley
+ Gene      | Littles
+ George    | Irvine
+ Gregg     | Popovich
+ Harry     | Gallatin
+ Isiah     | Thomas
+ Jack      | McKinney
+ Jack      | Ramsay
+ Jeff      | Bzdelik
+ Jerry     | Tarkanian
+ John      | Lucas
+ Kevin     | Loughery
+ Larry     | Bird
+ Larry     | Brown
+ Mel       | Daniels
+ Mike      | D'Antoni
+ Mike      | Evans
+ Morris    | McHone
+ Paul      | Seymour
+ Paul      | Westhead
+ Red       | Holzman
+ Rex       | Hughes
+ Richie    | Guerin
+ Rick      | Carlisle
+ Slater    | Martin
+ Stan      | Albeck
+(42 rows)
+
+ firstname |  lastname  | year |      name       |      name      
+-----------+------------+------+-----------------+----------------
+ Paul      | Armstrong  | 1948 | Zollner Pistons | Pistons
+ Dick      | Fitzgerald | 1946 | Raptors         | Huskies
+ Horace    | Mckinney   | 1950 | Celtics         | Capitols
+ Jerry     | Reynolds   | 1986 | Bucks           | Kings
+ Jerry     | Reynolds   | 1987 | Bucks           | Kings
+ Jerry     | Reynolds   | 1988 | Supersonics     | Kings
+ Jerry     | Reynolds   | 1989 | Magic           | Kings
+ Ed        | Sadowski   | 1946 | Rebels          | Huskies
+ Howie     | Schultz    | 1949 | Zollner Pistons | Duffey Packers
+ Jack      | Smiley     | 1949 | Duffey Packers  | Hawks
+(10 rows)
+
+ firstname |   lastname   |  pts  
+-----------+--------------+-------
+ Kareem    | Abdul-jabbar | 38387
+ Karl      | Malone       | 36928
+(2 rows)
+
+ firstname | lastname | success 
+-----------+----------+---------
+ Bill      | Bertka   |       1
+(1 row)
+
+ draft_from | count 
+------------+-------
+ Kentucky   |    59
+(1 row)
+
